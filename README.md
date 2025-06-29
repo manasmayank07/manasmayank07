@@ -21,6 +21,15 @@
 
 ---
 
+# 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manasmayank76&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manasmayank76&layout=compact&theme=radical)
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=manasmayank76&label=Profile%20views&color=0e75b6&style=flat)
+
+---
+
 ## 🔗 Connect with me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)
 - 🐙 [GitHub](https://github.com/manasmayank76)
