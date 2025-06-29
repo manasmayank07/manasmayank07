@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I’m Manas Mayank! 🚀
 
-<!--
-**manasmayank07/manasmayank07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BCA Student**
+📚 Currently pursuing BCA, building strong skills in coding, problem-solving, and software development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- 🐍 Python
+- ⚙️ C
+- 💻 C++
+- ☕ Java
+- 🌐 HTML, CSS, Basic JavaScript
+- 📚 Data Structures & Algorithms
+- 🗄️ DBMS
+- 🗃️ SQL (Basics)
+- 🔧 Git & GitHub
+- 🧩 Problem Solving
+- 🔒 Basic Ethical Hacking
+- 🐧 Linux (Basics)
+
+---
+
+## 🔗 Connect with me
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)
+- 🐙 [GitHub](https://github.com/manasmayank76)
+- 🖥️ [Visual Studio](https://visualstudio.microsoft.com/)
+- 🧩 [LeetCode](https://leetcode.com/your-leetcode-username)
+- 💻 [Replit](https://replit.com/@your-replit-username)
+
+---
+
+> 💌 *Feel free to connect! Always open for learning and collaboration.* 🚀
+
+✨ *“Keep Learning, Keep Growing!”*
+
+
+
