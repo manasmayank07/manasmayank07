@@ -10,14 +10,22 @@
 - ⚙️ C
 - 💻 C++
 - ☕ Java
+- 🔷 OOPs Concepts
 - 🌐 HTML, CSS, Basic JavaScript
-- 📚 Data Structures & Algorithms
+- 📚 Data Structures & Algorithms (Strong)
 - 🗄️ DBMS
 - 🗃️ SQL (Basics)
+- 💽 Operating System (Basics)
+- 🌐 Computer Networks (Basics)
 - 🔧 Git & GitHub
+- ⚡ Competitive Programming (LeetCode)
+- 📝 Visual Studio Code
+- 🤝 Team Collaboration
+- 🗣️ Communication Skills
 - 🧩 Problem Solving
 - 🔒 Basic Ethical Hacking
 - 🐧 Linux (Basics)
+
 
 ---
 
