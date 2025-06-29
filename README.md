@@ -22,11 +22,11 @@
 ---
 
 # 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manasmayank76&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manasmayank07&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manasmayank76&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manasmayank07&layout=compact&theme=radical)
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=manasmayank76&label=Profile%20views&color=0e75b6&style=flat)
+![Visitor Badge](https://komarev.com/ghpvc/?username=manasmayank07&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
