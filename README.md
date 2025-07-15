@@ -111,7 +111,7 @@ Using Cloud Notebooks (IBM Watson Studio / Google Colab)
 - 🧩 Problem Solving
 - 🔒 Basic Ethical Hacking
 - 🐧 Linux (Basics)
-
+- 🤖 Artificial Intelligence (AI)
 
 ---
 
