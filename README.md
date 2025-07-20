@@ -125,11 +125,12 @@ Using Cloud Notebooks (IBM Watson Studio / Google Colab)
 ---
 
 ## 🔗 Connect with me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)
-- 🐙 [GitHub](https://github.com/manasmayank76)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/manas-mayank-64441a370)
+- 🐙 [GitHub](https://github.com/manasmayank07)
 - 🖥️ [Visual Studio](https://visualstudio.microsoft.com/)
-- 🧩 [LeetCode](https://leetcode.com/your-leetcode-username)
-- 💻 [Replit](https://replit.com/@your-replit-username)
+- 🧩 [LeetCode](https://leetcode.com/manasmayank07)
+- 💻 [Replit](https://replit.com/@manasmayank440)
+- 🚀 [Hackerrank](https://hackerrank.com/@manasmayank440)
 
 ---
 
