@@ -112,6 +112,23 @@ Using Cloud Notebooks (IBM Watson Studio / Google Colab)
 - 🔒 Basic Ethical Hacking
 - 🐧 Linux (Basics)
 - 🤖 Artificial Intelligence (AI)
+- "📊 Data Science",
+- "🛡️ Cyber Security",
+-  "🚀 Aerospace",
+-  "🕵️‍♂️ Ethical Hacking",
+-  "🤖 Machine Learning",
+-   "🧠 Artificial Intelligence (AI)",
+-   "📈 Data Analysis",
+-    "💻 Full Stack Development",
+-    "⚙️ Generative AI",
+-    "🔍 Deep Learning",
+-    "📚 Course Development",
+-    "🌐 Web Development Course",
+-    "📣 Digital Marketing",
+-    "📊 Power BI"
+-    "📱 App Development",
+-   "🌐 Web Development"
+-   "💻Computer Science and Engineering"
 
 ---
 
@@ -131,7 +148,8 @@ Using Cloud Notebooks (IBM Watson Studio / Google Colab)
 - 🧩 [LeetCode](https://leetcode.com/manasmayank07)
 - 💻 [Replit](https://replit.com/@manasmayank440)
 - 🚀 [Hackerrank](https://hackerrank.com/@manasmayank440)
-
+- ✖️ [twitter]
+  (https://twitter.com/@manas_code)
 ---
 
 > 💌 *Feel free to connect! Always open for learning and collaboration.* 🚀
