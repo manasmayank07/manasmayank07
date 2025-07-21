@@ -92,6 +92,7 @@ Using Cloud Notebooks (IBM Watson Studio / Google Colab)
 
 
 ## 🛠️ Skills
+- 🖥️Programming Language 
 - 🐍 Python
 - ⚙️ C
 - 💻 C++
@@ -142,7 +143,7 @@ Using Cloud Notebooks (IBM Watson Studio / Google Colab)
 ---
 
 ## 🔗 Connect with me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/manas-mayank-64441a370)
+- 💼 [LinkedIn](https://www.linkedin.com/in/manas-mayank-64441a370)
 - 🐙 [GitHub](https://github.com/manasmayank07)
 - 🖥️ [Visual Studio](https://visualstudio.microsoft.com/)
 - 🧩 [LeetCode](https://leetcode.com/manasmayank07)
