@@ -111,8 +111,7 @@ Using Cloud Notebooks (IBM Watson Studio / Google Colab)
 - 🗣️ Communication Skills
 - 🧩 Problem Solving
 - 🔒 Basic Ethical Hacking
-- 🐧 Linux (Basics)
-- 🤖 Artificial Intelligence (AI)
+- 🐧 Linux (Basics)",
 - "📊 Data Science",
 - "🛡️ Cyber Security",
 -  "🚀 Aerospace",
@@ -144,13 +143,10 @@ Using Cloud Notebooks (IBM Watson Studio / Google Colab)
 
 ## 🔗 Connect with me
 - 💼 [LinkedIn](https://www.linkedin.com/in/manas-mayank-64441a370)
-- 🐙 [GitHub](https://github.com/manasmayank07)
-- 🖥️ [Visual Studio](https://visualstudio.microsoft.com/)
 - 🧩 [LeetCode](https://leetcode.com/manasmayank07)
 - 💻 [Replit](https://replit.com/@manasmayank440)
 - 🚀 [Hackerrank](https://hackerrank.com/@manasmayank440)
-- ✖️ [twitter]
-  (https://twitter.com/@manas_code)
+  
 ---
 
 > 💌 *Feel free to connect! Always open for learning and collaboration.* 🚀
