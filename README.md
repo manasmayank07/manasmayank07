@@ -75,14 +75,6 @@
 
 ---
 
-## 🔗 Connect with me
-- 💼 [LinkedIn](https://www.linkedin.com/in/manas-mayank-64441a370)
-- 🧩 [LeetCode](https://leetcode.com/manasmayank07)
-- 💻 [Replit](https://replit.com/@manasmayank440)
-- 🚀 [Hackerrank](https://hackerrank.com/@manasmayank440)
-  
----
-
 > 💌 *Feel free to connect! Always open for learning and collaboration.* 🚀
 
 ✨ *“Keep Learning, Keep Growing!”*
