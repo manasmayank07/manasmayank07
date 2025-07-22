@@ -62,8 +62,7 @@
 -    "⚙️ Generative AI",
 -    "📱 App Development",
 -   "🌐 Web Development"
-- 
-
+  
 ---
 
 # 📈 GitHub Stats
