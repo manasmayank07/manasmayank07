@@ -1,10 +1,5 @@
 # 👋 Hi, I’m Manas Mayank! 🚀
 
-🎓 **BCA Student**
-📚 Currently pursuing BCA, building strong skills in coding, problem-solving, and software development.
-
----
-
 ## 📚 Courses and Skills
 
 - 🤝 IBM Certified: [Full Stack Development ]  
