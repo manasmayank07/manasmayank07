@@ -76,6 +76,17 @@
 
 ---
 
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/manas-mayank-64441a370)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/manasmayank07)  
+[![Replit](https://img.shields.io/badge/Replit-667881?logo=replit&logoColor=white&style=for-the-badge)](https://replit.com/@manasmayank440)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&style=for-the-badge)](https://leetcode.com/manasmayank07)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&style=for-the-badge)](https://www.hackerrank.com/manasmayank440)
+
+---
+
+
 > 💌 *Feel free to connect! Always open for learning and collaboration.* 🚀
 
 ✨ *“Keep Learning, Keep Growing!”*
