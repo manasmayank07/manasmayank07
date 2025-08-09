@@ -76,6 +76,32 @@
 
 ---
 
+# Connect with Me
+
+
+## Profiles
+
+* 🔗 **LinkedIn**: [linkedin.com/in/manasmayank07](https://www.linkedin.com/in/manasmayank07)
+* 💻 **GitHub**: [github.com/manasmayank07](https://github.com/manasmayank07)
+* 🧮 **LeetCode**: [leetcode.com/manasmayank07](https://leetcode.com/manasmayank07)
+* 🖥️ **Replit**: [replit.com/@manasmayank440](https://replit.com/@manasmayank440)
+* 🎯 **HackerRank**: [hackerrank.com/manasmayank07](https://www.hackerrank.com/manasmayank07)
+* 🍽️ **CodeChef**: *(add your link)*
+* 🐱‍💻 **Coding Ninjas**: *(add your link)*
+* 📚 **SoloLearn**: *(add your link)*
+* 🌱 **freeCodeCamp**: *(add your link)*
+* 📖 **Codecademy**: *(add your link)*
+* 🎓 **Coursera**: *(add your link)*
+* 🏅 **Great Learning**: *(add your link)*
+* 📡 **Swayam Central**: *(add your link)*
+
+---
+
+✨ Let's connect and grow together! 🚀
+
+
+---
+
 > 💌 *Feel free to connect! Always open for learning and collaboration.* 🚀
 
 ✨ *“Keep Learning, Keep Growing!”*
