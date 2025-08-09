@@ -86,15 +86,7 @@
 * 🧮 **LeetCode**: [leetcode.com/manasmayank07](https://leetcode.com/manasmayank07)
 * 🖥️ **Replit**: [replit.com/@manasmayank440](https://replit.com/@manasmayank440)
 * 🎯 **HackerRank**: [hackerrank.com/manasmayank07](https://www.hackerrank.com/manasmayank07)
-* 🍽️ **CodeChef**: *(codechef.com/manasmayank440)*
-* 🐱‍💻 **Coding Ninjas**: *(coding ninjas.com/manasmayank440)*
-* 📚 **SoloLearn**: *(Sololearn.com/@manasmayank440)*
-* 🌱 **freeCodeCamp**: *(freecodechamp.com/@manasmayank440*
-* 📖 **Codecademy**: *(codeacademy.com/@manasmayank440)*
-* 🎓 **Coursera**: *(coursera.com/@manasmayank440)*
-* 🏅 **Great Learning**: *(great learning.com/manasmayank440)*
-* 📡 **Swayam Central**: *(swayam central.com/@manasmayank440)*
-
+  
 ---
 
 ✨ Let's connect and grow together! 🚀
