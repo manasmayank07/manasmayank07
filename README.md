@@ -2,7 +2,7 @@
 
   📚 Currently pursuing BCA, building strong skills in coding, problem-solving, and software development.
 
-ence, Machine Learning, etc.
+
 
 
 
